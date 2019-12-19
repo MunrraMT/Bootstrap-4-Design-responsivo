@@ -124,6 +124,39 @@ nav.navbar-transparente {
     padding-left: 80px;
 }
 
+/* Rodape */
+
+#rodape {
+    background-color: black;
+    padding: 50px 0 20px 0;
+    position: relative;
+}
+
+#rodape h4 {
+    color: #919496;
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
+
+#rodape a {
+    color: white;
+    font-size: 0.8em;
+}
+
+#rodape a:hover {
+    color: #9bf0e1;
+    text-decoration: none;
+}
+
+#rodape ul {
+    list-style: none;
+}
+
+#rodape ul li {
+    float: right;
+    margin: 0 10px;
+}
+
 /* Tipografia */
 
 h1 {
