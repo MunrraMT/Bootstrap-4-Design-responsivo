@@ -34,4 +34,4 @@
 
 
 ### Desenvolvido por André Rodrigues.
-### Email de contato: andre_santos_t@hotmail.com
+### Email de contato: dev-asantos@outlook.com
